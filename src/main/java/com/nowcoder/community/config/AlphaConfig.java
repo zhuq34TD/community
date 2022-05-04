@@ -5,6 +5,9 @@ import org.springframework.context.annotation.Configuration;
 
 import java.text.SimpleDateFormat;
 
+/**
+ * 例子
+ */
 @Configuration
 public class AlphaConfig {
 
